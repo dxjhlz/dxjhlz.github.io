@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Dxj&#39;s Blog</title>
+    <link>https://dxjhlz.github.io/post/</link>
+    <description>Recent content in Posts on Dxj&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 10 Feb 2022 21:57:21 +0800</lastBuildDate><atom:link href="https://dxjhlz.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>介绍</title>
+      <link>https://dxjhlz.github.io/post/introduce/</link>
+      <pubDate>Thu, 10 Feb 2022 21:57:21 +0800</pubDate>
+      
+      <guid>https://dxjhlz.github.io/post/introduce/</guid>
+      <description>想要做一个属于自己的博客吗？使用 hugo 框架轻松生成你的个人博客！！！
+由于时间有限，博客以后再补充，🤭</description>
+    </item>
+    
+  </channel>
+</rss>
